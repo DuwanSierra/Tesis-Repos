@@ -1,0 +1,12 @@
+[submodule "HA-K3s-Terraform-DO"]
+	path = HA-K3s-Terraform-DO
+	url = git@github.com:DuwanSierra/HA-K3s-Terraform-DO.git
+[submodule "K8s-Tesis-Apps"]
+	path = K8s-Tesis-Apps
+	url = git@github.com:DuwanSierra/K8s-Tesis-Apps.git
+[submodule "K8s-bootstrap"]
+	path = K8s-bootstrap
+	url = git@github.com:DuwanSierra/K8s-bootstrap.git
+[submodule "K8S-CNI-Results"]
+	path = K8S-CNI-Results
+	url = git@github.com:DuwanSierra/K8S-CNI-Results.git
