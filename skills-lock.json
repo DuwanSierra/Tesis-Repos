@@ -5,25 +5,34 @@
       "source": "shubhamsaboo/awesome-llm-apps",
       "sourceType": "github",
       "skillPath": "awesome_agent_skills/academic-researcher/SKILL.md",
-      "computedHash": "16dd0121beefcbb1dba0652f0a37fd5511380c8be7ae69270222913483b00bbc"
+      "computedHash": "93334b34a735942fcfd66a4ddb02df13eea639864c579b47b356c9ad5d67d4d3",
+      "upstreamStatus": "removed",
+      "note": "El upstream reestructuro 'awesome_agent_skills/' a 'agent_skills/' y ya no publica academic-researcher (verificado en HEAD 779e9f9). Se conserva la copia local v1.0.0 sin cambios.",
+      "lastChecked": "2026-08-05"
     },
     "bib-search-citation": {
       "source": "bahayonghang/academic-writing-skills",
       "sourceType": "github",
       "skillPath": "academic-writing-skills/bib-search-citation/SKILL.md",
-      "computedHash": "c893744bb454e70fd0f1b92adcc86306639bb0633c6fb0ee778239784fcd9ab5"
+      "computedHash": "4625490c2fafd5b35e587087b0e7fbdb6f26a1d24f8f10c59f5de95ea25d3092",
+      "upstreamCommit": "b661243f3075e3fce624b5983a039e0fbf9ea401",
+      "lastChecked": "2026-08-05"
     },
     "latex-paper-en": {
       "source": "bahayonghang/academic-writing-skills",
       "sourceType": "github",
       "skillPath": "academic-writing-skills/latex-paper-en/SKILL.md",
-      "computedHash": "9e167b23d1148a05b0003fc0a5f2d9916bad4c260e6bccc67f6b8ad5d8465c0f"
+      "computedHash": "6c6cffddc33f8c45ff6b4643e42b2bda11d6c68f9352685139d870d57d1381ea",
+      "upstreamCommit": "b661243f3075e3fce624b5983a039e0fbf9ea401",
+      "lastChecked": "2026-08-05"
     },
     "paper-audit": {
       "source": "bahayonghang/academic-writing-skills",
       "sourceType": "github",
       "skillPath": "academic-writing-skills/paper-audit/SKILL.md",
-      "computedHash": "e8838f579bd664b39d074ed07f1299cbac81280e310e64ac4ee6f9ba4b632554"
+      "computedHash": "ea59fac02a58bff60e27d6e43f5a253b0e23db31554b28910552e31c8c588ad6",
+      "upstreamCommit": "b661243f3075e3fce624b5983a039e0fbf9ea401",
+      "lastChecked": "2026-08-05"
     }
   }
 }
